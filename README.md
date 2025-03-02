@@ -118,6 +118,7 @@ active: checked
 #### Logs
 You can check `ffiiitc` logs to see if there are any errors:<br> `docker compose logs fftc -f`
 
+
 #### Forced training of your model
 There is also option available to force train the model from your transactions if required. 
 To trigger force train run the following command and restart `fftc` container:
